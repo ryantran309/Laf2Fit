@@ -1,0 +1,8 @@
+{
+  "db": {
+    "connString": "mongodb+srv://admin:admin@laf2fit.l3brvnc.mongodb.net/test"
+  },
+  "jwt": {
+    "secret": "mykey"
+  }
+}
